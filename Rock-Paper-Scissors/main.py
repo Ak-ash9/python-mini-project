@@ -1,7 +1,7 @@
 import random
 print("_________Lets play game___________")
-a=input("Enter player name:")
-print("hello",a)
+name=input("Enter player name:")
+print("hello",name)
 print("Game start......")
 print("Rules for playing this game-")
 print("1.Rock beats Scissor.")
